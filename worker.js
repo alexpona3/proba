@@ -33,8 +33,7 @@ export default {
 
       // ВАШИ ДАННЫЕ ЮKASSA
       const SHOP_ID = '1395242';
-      const SECRET_KEY = 'live_gK5EAEU48ae_uEahz0LhjpGCCv_kYSZKeStfPe7e9Vk
-'; // ?? ЗАМЕНИТЕ НА СВОЙ СЕКРЕТНЫЙ КЛЮЧ
+      const SECRET_KEY = 'live_gK5EAEU48ae_uEahz0LhjpGCCv_kYSZKeStfPe7e9Vk'; // ?? ЗАМЕНИТЕ НА СВОЙ СЕКРЕТНЫЙ КЛЮЧ
 
       const amount = '4500.00';
       const description = 'OW64 — персональная матрица';
