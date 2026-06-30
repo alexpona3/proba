@@ -1,0 +1,7 @@
+name = "yookassa-invoice"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[[routes]]
+pattern = "api.ow64.alexpona3.store/*"
+zone_id = "89611d6afe317750efb10c568cceccb5"
